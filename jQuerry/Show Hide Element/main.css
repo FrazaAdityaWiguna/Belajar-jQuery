@@ -1,0 +1,14 @@
+#box1 {
+  height: 100px;
+  width: 100px;
+  background-color: #24245a;
+  color: white;
+  padding: 10px;
+  margin: 10px;
+  position: relative;
+}
+
+.box-container {
+  position: relative;
+  height: 150px;
+}

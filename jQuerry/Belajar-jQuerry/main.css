@@ -1,0 +1,15 @@
+.change {
+  color: #000702ee;
+  background: #62e709;
+  cursor: pointer;
+}
+
+#boxes_wrap {
+  background: #464545;
+  height: 100px;
+  width: 100px;
+  padding: 10px;
+  color: #fff;
+  margin: 10px;
+  border: 5px solid #b9b9b9;
+}
